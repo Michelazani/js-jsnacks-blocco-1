@@ -12,3 +12,5 @@ if ( typeAgeOne > typeAgeTwo) {
 else if ( typeAgeTwo > typeAgeOne) {
     console.log ('second age is the oldest')
 }
+
+document.getElementById ('output') .innerHTML = 'the oldest is:' 
