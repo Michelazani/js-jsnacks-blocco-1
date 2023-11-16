@@ -2,5 +2,6 @@
 
 const typeNumberOfSeven = parseInt (prompt ('type a 7 digit number'));
 
-
-
+if (typeNumberOfSeven.length == 7) {
+     
+}
